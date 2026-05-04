@@ -114,6 +114,11 @@ http://localhost:8501
 The system predicts the Arabic sign alphabet from the uploaded hand gesture image and displays the recognized result.
 
 ---
+## Project Demo Video
+
+Watch the full project demo here:
+(https://drive.google.com/file/d/1llw-KxN2th4XzbnS13DY062B-p5zKqry/view?usp=drivesdk)
+
 
 ## Future Improvements
 
